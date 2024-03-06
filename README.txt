@@ -14,6 +14,8 @@ random
 sklearn
 matplotlib
 math
+cprofile
+re
 
 
 Notes:
